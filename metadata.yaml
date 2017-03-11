@@ -1,5 +1,8 @@
 _repo: A-Journal-of-the-Plague-Year--13-Written-by-a-Citizen-Who-Continued-All-the-While-in-London_376
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -29,6 +32,8 @@ description: "A Journal of the Plague Year is a novel by Daniel Defoe, first pub
   \ of Samuel Pepys. Defoe's account, which appears to include much research, is far\
   \ more systematic and detailed than Pepys's first-person account.\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/376#A-Journal-of-the-Plague-Year--13-Written-by-a-Citizen-Who-Continued-All-the-While-in-London
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
 identifiers:
